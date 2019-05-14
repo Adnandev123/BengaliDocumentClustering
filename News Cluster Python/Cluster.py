@@ -225,12 +225,6 @@ class StringGeneratorWebService(object):
         return final_cluster
        # return json.dumps(input_json,  ensure_ascii=False)
 
-    #def PUT(self, another_string):
-     #   cherrypy.session['mystring'] = another_string
-
- #   def DELETE(self):
-      #  cherrypy.session.pop('mystring', None)
-
 def accept_request():
     pass
 
