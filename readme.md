@@ -14,5 +14,6 @@ A realtime searvice can be found created using this methods in <https://news.pip
 Details of the methods can be found in these papers.
 
 Title: Bengali Document Clustering Using Word Movers Distance. Link: <https://ieeexplore.ieee.org/document/8554598>
+
 Title: From Word Embeddings To Document Distances. Link: <https://proceedings.mlr.press/v37/kusnerb15.pdf>
 
